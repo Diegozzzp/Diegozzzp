@@ -1,160 +1,98 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Diego%20Nguyen%20-%20CatCat.gif">
-  
-</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sophie+Nguyen+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
-
-# <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Sophie Nguyen 🌻 
-
-🙋‍♂️ Thank you for visiting my GitHub profile! 
-
-💻 SWE Intern @ CodeDay Labs || DEV @ Google Developer Student Club || CS @ GSU || Full Stack Web Dev
-
-<hr>
-
-## 🚀💻 Technologies & Tools
-
-### <u> Languages: </u>
+<h1 align="center">Hi 👋, I'm Diego Mejias</h1>
+<h3 align="center">A Jr. Programmer in development🌟.</h3>
 
 <br>
 
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
-</span>
-&nbsp;
-<br>
-
-### <u> Frontend Development Technologies and Tools: </u>
+<p align="right"> Cafe Lover
+  </p>
 
 <br>
 
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **diegoadan.mejias@gmail.com**
+
+- ⚡ Fun fact :- Volleyball and Music🎵 are the reasons to live.
 
 <br>
 
-<span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25"/></span>
-&nbsp;
-<span>
-<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
-&nbsp;
-
-### <u> Mobile App Development Technologies & Tools: </u>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/diego-mejias-1648531ab/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/who_sdiegx/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
 
 <br>
 
-<span>
-<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
-</span>
-&nbsp;
-
-
-### <u> Version Control and Tools:</u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
-&nbsp;
-
-### <u> Operating Systems and Others:</u>
-
-<br>
-
-<span>
-<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
-
-<br>
-<br>
-
-<i> Recently, I'm also learning: </i>
-
-<span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
-&nbsp;
-
-<br>
-
-<hr>
-
-
-## Contact me 🌻
-
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
-  </a>
-  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
-  </a>
-</div>
-
-<br>
-<div align="center">
-<a href="https://github.com/SophieNguyen113">
-<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
-</a>
-
-</div>
-
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+## 👨‍💻 Languages and Tools:
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            </td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Python" title="Python" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+                        src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" /></a>
+            </td>
+            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+            </td>
+            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>
+                      <td><a href="#"><img alt="figma" title="Heroku" height="28px"
+                        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" /></a></td>
+          <td><a href="#"><img alt="MongoBD" title="Visual Studio Code" height="28px"
+                        src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+                        src="https://i.imgur.com/6nJGNMN.png" /></a>
+            </td>
+</table>
 
 <br>
 
+<h3>Statistical Data :-</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegozzzp)](https://github.com/anuraghazra/github-readme-stats)
 
------
-Credits: [Sophie Nguyen](https://github.com/SophieNguyen113)
+<br>
 
-Last Edited on: 10/07/2023
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+[Adam-pw](https://github.com/Adam-pw)
