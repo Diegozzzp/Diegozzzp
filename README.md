@@ -1,4 +1,4 @@
-## 👨‍💻 Languages and Tools:<h1 align="center">Hi 👋, I'm Diego Mejias</h1>
+<h1 align="center">Hi 👋, I'm Diego Mejias</h1>
 <h3 align="center">A Jr. Programmer in development🌟.</h3>
 
 <br>
