@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **diegoadan.mejias@gmail.com**
+- 📫 How to reach me **adanmejias908@gmail.com**
 
 - ⚡ Fun fact :- Volleyball and Music🎵 are the reasons to live.
 
